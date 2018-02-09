@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9edf9fdf99dfcfdfcedfcedfccdf93dfc8df92df92df9bdfcfdf9fdf98dfc9df99dfc9dfc8dfcbdf9cdf9ddf9fdf92df93df9bdfccdfc8dfccdfccdfcedf9bdfc8dfc9df92dfcbdf99df99dfcfdf93</token>
+          <option name="name" value="SonarCloud" />
+          <organizationKey>redbeardcode-github</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
