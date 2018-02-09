@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" timestamp="1518158564122">
         <mark key="'" line="42" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1518159431224">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1512369003511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,8 +25,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/management/commands/create_sample_data.py" timestamp="1518157450553">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/management/commands/create_sample_data.py" timestamp="1518159198773">
+        <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="92" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/dict_flow_examples.py" timestamp="1512369114056">
@@ -49,6 +52,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1518159488879">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/calculator.py" timestamp="1512369597348">
         <mark key="[" line="4" column="3" />
@@ -76,10 +82,10 @@
       <file name="/dummy.sql" timestamp="1518156263594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518158834601">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="64" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518159429381">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pytest.ini" timestamp="1518157034089">
         <mark key="[" line="0" column="0" />
