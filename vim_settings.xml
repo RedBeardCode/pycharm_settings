@@ -6,6 +6,9 @@
       <file name="/Python Console" timestamp="1518160173537">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/.gitignore" timestamp="1518162959221">
+        <mark key="[" line="103" column="16" />
+      </file>
       <file name="/a.dummy" timestamp="1512369003511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,7 +28,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/factories.py" timestamp="1518154524948" />
       <file name="/manage.py@foodsharing_django_api" timestamp="1518156438022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -57,8 +59,9 @@
       <file name="/dummy.sql" timestamp="1518156263594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pylintrc" timestamp="1518162458872">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pylintrc" timestamp="1518163163135">
+        <mark key="'" line="215" column="74" />
+        <mark key="[" line="19" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1518160815755">
         <mark key="[" line="0" column="0" />
@@ -75,8 +78,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar-project.properties" timestamp="1518161866197">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar-project.properties" timestamp="1518163031161">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/__init__.py" timestamp="1518160796733">
         <mark key="[" line="4" column="0" />
@@ -93,6 +99,11 @@
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/.coafile" timestamp="1518160698832">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar_command.sh" timestamp="1518163019432">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518160536734">
         <mark key="[" line="39" column="0" />
@@ -112,18 +123,22 @@
     <jumps>
       <jump line="35" column="6" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" />
       <jump line="42" column="4" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" />
+      <jump line="215" column="74" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pylintrc" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgVGVzdFVzZXIudXNlci5jaGVja19wYXNzd29yZChUZXN0VXNlci51c2VyLmVtYWlsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2hvbWUvZmFybWVyL1JlZEJlYXJkQ29kZS9Ecm9wYm94L3Byb2plY3RzL2Zvb2RzaGFyaW5nX2RqYW5nb19hcGkvc29uYXJfY29tbWFuZAo=</text>
+        <text encoding="base64">ICAtRHNvbmFyLmhvc3QudXJsPWh0dHBzOi8vc29uYXJjbG91ZC5pbyBcCiAgLURzb25hci5sb2dpbj00NTNlZGRmOWI4ODFlNTJjM2NiYTY3NTg5MWZiZmZkMWJjOGEzM2U5Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAtRHNvbmFyLmhvc3QudXJsPWh0dHBzOi8vc29uYXJjbG91ZC5pbyBcCiAgLURzb25hci5sb2dpbj00NTNlZGRmOWI4ODFlNTJjM2NiYTY3NTg5MWZiZmZkMWJjOGEzM2U5Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">L2hvbWUvZmFybWVyL1JlZEJlYXJkQ29kZS9Ecm9wYm94L3Byb2plY3RzL2Zvb2RzaGFyaW5nX2RqYW5nb19hcGkvc29uYXJfY29tbWFuZAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>sonar-scanner \
   -Dsonar.projectKey=foodsharing \
   -Dsonar.organization=redbeardcode-github \
@@ -131,35 +146,32 @@
   -Dsonar.host.url=https://sonarcloud.io \
   -Dsonar.login=453eddf9b881e52c3cba675891fbffd1bc8a33e9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZpZWxkLCBmaWVsZC52YWx1ZV9mcm9tX29iamVjdChzZWxmLnVzZXIpKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgVGVzdFVzZXIudXNlci5jaGVja19wYXNzd29yZChUZXN0VXNlci51c2VyLmVtYWlsKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlckZhY3RvcnkuY3JlYXRlKAogICAgICAgICAgICBmaXJzdF9uYW1lPSd1c2VyJywKICAgICAgICAgICAgbGFzdF9uYW1lPScxJywKICAgICAgICAgICAgZW1haWw9J3Rlc3RAZXhhbXBsZS5jb20nLAogICAgICAgICAgICAjVE9ETzogQ2hlY2sgaWYgbmVzc2VjYXJ5CiAgICAgICAgICAgIGdlc2NobGVjaHQ9MCwKICAgICAgICAgICAgbmV3c2xldHRlcj0wCiAgICAgICAgKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKRWluZmFjaGVyIFRhc2NoZW5yZWNobmVyIHp1bSBiZXJlY2huZW4gZWluZmFjaGVyIEF1c2Ryw7xja2UKIiIiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>plug</text>
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>plug</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>plug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -167,6 +179,7 @@
       <history-search>
         <entry>newsl</entry>
         <entry>pass</entry>
+        <entry>plug</entry>
       </history-search>
       <history-cmd />
       <history-expr />
