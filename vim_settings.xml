@@ -7,11 +7,45 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517811488978">
+      <file name="/Dummy.txt" timestamp="1518156345748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1512369003511">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/vhs/basic_arithmetic_operation.py" timestamp="1512369207229">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/management/commands/create_sample_data.py" timestamp="1518157450553">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="92" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/vhs/dict_flow_examples.py" timestamp="1512369114056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/factories.py" timestamp="1518154524948" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/local_settings.py" timestamp="1518157624948">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="/manage.py@foodsharing_django_api" timestamp="1518156438022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/requirements_dev.txt" timestamp="1518156616981">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/calculator.py" timestamp="1512369597348">
         <mark key="[" line="4" column="3" />
@@ -32,54 +66,56 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c406062-8465-4f4e-a10c-0f99f0353b79/console.sql" timestamp="1517219602351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/vhs/basic_arithmetic_operation.py" timestamp="1512369207229">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/projects/vhs/dict_flow_examples.py" timestamp="1512369114056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/logbook.py" timestamp="1512369150293">
         <mark key="]" line="3" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1517811937827">
+      <file name="/dummy.sql" timestamp="1518156263594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/factories.py" timestamp="1518154524948" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518157461472">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="92" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pytest.ini" timestamp="1518157034089">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/conftest.py" timestamp="1518158121552">
+        <mark key="[" line="4" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKRWluZmFjaGVyIFRhc2NoZW5yZWNobmVyIHp1bSBiZXJlY2huZW4gZWluZmFjaGVyIEF1c2Ryw7xja2UKIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICB1MSA9IFVzZXJGYWN0b3J5LmNyZWF0ZShmaXJzdF9uYW1lPSd1c2VyJywgbGFzdF9uYW1lPScxJywgZW1haWw9J3VzZXIxQGV4YW1wbGUuY29tJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKRWluZmFjaGVyIFRhc2NoZW5yZWNobmVyIHp1bSBiZXJlY2huZW4gZWluZmFjaGVyIEF1c2Ryw7xja2UKIiIiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1MSA9IFVzZXJGYWN0b3J5LmNyZWF0ZShmaXJzdF9uYW1lPSd1c2VyJywgbGFzdF9uYW1lPScxJywgZW1haWw9J3VzZXIxQGV4YW1wbGUuY29tJykK</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IiIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RWluZmFjaGVyIEFkZGllcmVyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">IiIiCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">RWluZmFjaGVyIEFkZGllcmVyCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">IiIiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
     </registers>
