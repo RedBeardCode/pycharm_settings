@@ -10,6 +10,9 @@
       <file name="/Dummy.txt" timestamp="1518156345748">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" timestamp="1518158564122">
+        <mark key="'" line="42" column="4" />
+      </file>
       <file name="/a.dummy" timestamp="1512369003511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,9 +33,9 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/factories.py" timestamp="1518154524948" />
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/local_settings.py" timestamp="1518157624948">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="20" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/local_settings.py" timestamp="1518158328983">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="14" column="4" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
@@ -73,35 +76,40 @@
       <file name="/dummy.sql" timestamp="1518156263594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518157461472">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="92" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518158834601">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="64" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pytest.ini" timestamp="1518157034089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/conftest.py" timestamp="1518158121552">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/conftest.py" timestamp="1518158346261">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="8" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="35" column="6" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/models.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1MSA9IFVzZXJGYWN0b3J5LmNyZWF0ZShmaXJzdF9uYW1lPSd1c2VyJywgbGFzdF9uYW1lPScxJywgZW1haWw9J3VzZXIxQGV4YW1wbGUuY29tJykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgVGVzdFVzZXIudXNlci5jaGVja19wYXNzd29yZChUZXN0VXNlci51c2VyLmVtYWlsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKRWluZmFjaGVyIFRhc2NoZW5yZWNobmVyIHp1bSBiZXJlY2huZW4gZWluZmFjaGVyIEF1c2Ryw7xja2UKIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgVGVzdFVzZXIudXNlci5jaGVja19wYXNzd29yZChUZXN0VXNlci51c2VyLmVtYWlsKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1MSA9IFVzZXJGYWN0b3J5LmNyZWF0ZShmaXJzdF9uYW1lPSd1c2VyJywgbGFzdF9uYW1lPScxJywgZW1haWw9J3VzZXIxQGV4YW1wbGUuY29tJykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgVGVzdFVzZXIudXNlci5jaGVja19wYXNzd29yZChUZXN0VXNlci51c2VyLmVtYWlsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlckZhY3RvcnkuY3JlYXRlKAogICAgICAgICAgICBmaXJzdF9uYW1lPSd1c2VyJywKICAgICAgICAgICAgbGFzdF9uYW1lPScxJywKICAgICAgICAgICAgZW1haWw9J3Rlc3RAZXhhbXBsZS5jb20nLAogICAgICAgICAgICAjVE9ETzogQ2hlY2sgaWYgbmVzc2VjYXJ5CiAgICAgICAgICAgIGdlc2NobGVjaHQ9MCwKICAgICAgICAgICAgbmV3c2xldHRlcj0wCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKRWluZmFjaGVyIFRhc2NoZW5yZWNobmVyIHp1bSBiZXJlY2huZW4gZWluZmFjaGVyIEF1c2Ryw7xja2UKIiIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -110,21 +118,33 @@
         <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RWluZmFjaGVyIEFkZGllcmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">RWluZmFjaGVyIEFkZGllcmVyCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IiIiCg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>pass</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>pass</last-search>
+      <last-offset />
+      <last-pattern>pass</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>newsl</entry>
+        <entry>pass</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
