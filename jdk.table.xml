@@ -1,28 +1,14 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.6.9 (/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6)" />
+      <name value="Python 3.5.2 (~/.anaconda3/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 2.6.9" />
-      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.anaconda3/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" type="simple" />
-            <root url="file:///Library/Python/2.6/site-packages" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" type="simple" />
-            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/661428859" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -32,233 +18,130 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 (~/anaconda/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/anaconda/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-darwin" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/Sphinx-1.5.1-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/aeosa" type="simple" />
-            <root url="jar://$USER_HOME$/anaconda/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/249160336" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 (~/anaconda/envs/ucp/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/anaconda/envs/ucp/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/plat-darwin" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/plat-mac" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/anaconda/envs/ucp/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-713102002" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 2.7.12 Vagrant VM at ~/Documents/projects/ucp/portal-vagrant (/opt/cantemo/python/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.12" />
-      <homePath value="vagrant:///Users/farmbauer/Documents/projects/ucp/portal-vagrant/opt/cantemo/python/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-264515303" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-1707943386" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-695624587" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/788246077" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-2079299165" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-388041267" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-264515303" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-1707943386" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-695624587" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/788246077" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-264515303" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-1707943386" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-695624587" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/788246077" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-47152052" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional VAGRANT_FOLDER="$USER_HOME$/Documents/projects/ucp/portal-vagrant" INTERPRETER_PATH="/opt/cantemo/python/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.12">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-264515303" remote-root="/opt/cantemo/python/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-1707943386" remote-root="/opt/cantemo/python/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-695624587" remote-root="/opt/cantemo/python/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/788246077" remote-root="/opt/cantemo/python/lib/python2.7/site-packages" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-2079299165" remote-root="/opt/cantemo/portal" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-47152052/-388041267" remote-root="/src/create_entities/src/portal/plugins" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-264515303" remote-root="/opt/cantemo/python/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-1707943386" remote-root="/opt/cantemo/python/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/-695624587" remote-root="/opt/cantemo/python/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-47152052/788246077" remote-root="/opt/cantemo/python/lib/python2.7/site-packages" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-264515303" remote-root="/opt/cantemo/python/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-1707943386" remote-root="/opt/cantemo/python/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/-695624587" remote-root="/opt/cantemo/python/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-47152052/788246077" remote-root="/opt/cantemo/python/lib/python2.7/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6.1 (~/anaconda/envs/ucp_data/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.1" />
-      <homePath value="$USER_HOME$/anaconda/envs/ucp_data/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data/lib/python3.6/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/anaconda/envs/ucp_data/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/53727247" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 (~/anaconda/envs/ucp_data_2/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/anaconda/envs/ucp_data_2/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/plat-darwin" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/plat-mac" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/anaconda/envs/ucp_data_2/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-1798273156" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/projects/ucp/portal-vagrant/src/create_test_data" />
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 2.7.5 Vagrant VM at ~/Documents/projects/ucp/portal-vagrant (/usr/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.5" />
-      <homePath value="vagrant:///Users/farmbauer/Documents/projects/ucp/portal-vagrant/usr/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/1646051593" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/704340502" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/-289277395" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/918732847" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/799428034" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional VAGRANT_FOLDER="$USER_HOME$/Documents/projects/ucp/portal-vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.5">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/1646051593" remote-root="/usr/lib64/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/704340502" remote-root="/usr/lib64/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/-289277395" remote-root="/usr/lib64/python2.7/site-packages" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/799428034/918732847" remote-root="/usr/lib/python2.7/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6.2 (~/anaconda/envs/vhs/bin/python)" />
+      <name value="Python 3.5.2 (~/.anaconda3/envs/freetimelance/bin/python)" />
       <type value="Python SDK" />
       <version value="Python 3.6.2" />
-      <homePath value="$USER_HOME$/anaconda/envs/vhs/bin/python" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/freetimelance/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/anaconda/envs/vhs/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/vhs/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/anaconda/envs/vhs/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/1996539791" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/.anaconda3/envs/DjConChart/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/DjConChart/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1676613614" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/.anaconda3/envs/wifitest/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/wifitest/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/.anaconda3/envs/vhs/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/vhs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/.anaconda3/envs/QDjConChart/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/QDjConChart/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/.anaconda3/envs/codepasta/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/codepasta/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-494250256" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (~/.anaconda3/envs/tcc/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/tcc/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1708988382" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
@@ -275,6 +158,211 @@
         </sourcePath>
       </roots>
       <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 Vagrant VM at ~/Dropbox/projects/tcc (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant:///home/farmer/Dropbox/projects/tcc/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/959277946" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Dropbox/projects/tcc" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/959277946/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Docker Compose (web at [/home/farmer/Dropbox/projects/truecostofcoal/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="docker-compose://[/home/farmer/Dropbox/projects/truecostofcoal/docker-compose.yml]:web/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/453829046" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/249573926" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/643464287" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/1782638618" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-216900276" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Dropbox/projects/truecostofcoal/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/453829046" remote-root="/virtualenv/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/-894995761" remote-root="/virtualenv/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-216900276/1782638618" remote-root="/virtualenv/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 Vagrant VM at ~/temp/sync_test (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant:///home/farmer/temp/sync_test/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1854940367" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/temp/sync_test" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1854940367/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/.anaconda3/envs/freetimelance/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1977336816" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (freetimelance)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/anaconda3/envs/freetimelance/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/freetimelance/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/freetimelance/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/freetimelance/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2041404744" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Dropbox/projects/FreeTimeLance" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (food)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/food/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/food/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/food/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/food/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-807500546" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api" />
     </jdk>
   </component>
 </application>

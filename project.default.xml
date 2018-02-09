@@ -6,7 +6,8 @@
         <version value="1.0" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="database.main" />
+        <property name="last_opened_file_path" value="$USER_HOME$/.anaconda3/envs/tcc/bin/python" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
       </component>
     </defaultProject>
   </component>
