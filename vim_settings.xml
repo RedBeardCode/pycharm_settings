@@ -87,11 +87,10 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/__init__.py" timestamp="1518160783339">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_api.py" timestamp="1518509018350">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="30" column="31" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_api.py" timestamp="1518525540673">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/local_settings.py" timestamp="1518191541269">
         <mark key="[" line="0" column="0" />
@@ -170,28 +169,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHJldmVyc2UoJ2FwaS92MTp1c2VyLWRldGFpbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXZlcnNlIGltcG9ydCByZXZlcnNlCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHJldmVyc2UoJ2FwaS92MTp1c2VyLWRldGFpbCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHJldmVyc2UoJ3VzZXI6bGlzdCcpCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXZlcnNlIGltcG9ydCByZXZlcnNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI1RPRE86IENoZWNrIGlmIG5lc3NlY2FyeQo=</text>
+        <text encoding="base64">ICAgIHVybCA9IHJldmVyc2UoJ3VzZXI6bGlzdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI1RPRE86IENoZWNrIGlmIG5lc3NlY2FyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtRHNvbmFyLmhvc3QudXJsPWh0dHBzOi8vc29uYXJjbG91ZC5pbyBcCiAgLURzb25hci5sb2dpbj00NTNlZGRmOWI4ODFlNTJjM2NiYTY3NTg5MWZiZmZkMWJjOGEzM2U5Cg==</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L2hvbWUvZmFybWVyL1JlZEJlYXJkQ29kZS9Ecm9wYm94L3Byb2plY3RzL2Zvb2RzaGFyaW5nX2RqYW5nb19hcGkvc29uYXJfY29tbWFuZAo=</text>
+        <text encoding="base64">ICAtRHNvbmFyLmhvc3QudXJsPWh0dHBzOi8vc29uYXJjbG91ZC5pbyBcCiAgLURzb25hci5sb2dpbj00NTNlZGRmOWI4ODFlNTJjM2NiYTY3NTg5MWZiZmZkMWJjOGEzM2U5Cg==</text>
       </register>
     </registers>
     <search>
