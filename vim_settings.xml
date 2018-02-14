@@ -146,8 +146,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/api.py" timestamp="1518527268499">
-        <mark key="[" line="36" column="80" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/api.py" timestamp="1518598258752">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="77" />
+        <mark key="." line="6" column="53" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar_command.sh" timestamp="1518163019432">
         <mark key="[" line="6" column="0" />
@@ -178,17 +181,17 @@
       <jump line="140" column="52" filename="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pylintrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIG1lc3NhZ2UgY3JlYXRpb24iIiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IENvbnZlcnNhdGlvbkxpc3RTZXJpYWxpemVy</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IENvbnZlcnNhdGlvbkxpc3RTZXJpYWxpemVy</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5tb2RlbHMgaW1wb3J0IENvbnZlcnNhdGlvbiBhcyBDb252ZXJzYXRpb25Nb2RlbCwgQ29udmVyc2F0aW9uTWVzc2FnZSBhcyBDb252ZXJzYXRpb25NZXNzYWdlTW9kZWwsIENvbnZlcnNhdGlvbk1lbWJlciBhcyBDb252ZXJzYXRpb25NZW1iZXJNb2RlbAo=</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5zZXJpYWxpemVycyBpbXBvcnQgQ29udmVyc2F0aW9uTGlzdFNlcmlhbGl6ZXIsIENvbnZlcnNhdGlvblJldHJpZXZlU2VyaWFsaXplcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIG1lc3NhZ2UgY3JlYXRpb24iIiIK</text>
