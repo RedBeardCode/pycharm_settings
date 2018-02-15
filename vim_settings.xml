@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1518509073242">
+      <file name="/Python Console" timestamp="1518704045708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/.gitignore" timestamp="1518162959221">
@@ -14,6 +14,12 @@
       </file>
       <file name="/a.dummy" timestamp="1512369003511">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_converstion.py" timestamp="1518705302303">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="39" column="58" />
+        <mark key="." line="39" column="58" />
+        <mark key="^" line="39" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/basic_arithmetic_operation.py" timestamp="1512369207229">
         <mark key="[" line="3" column="18" />
@@ -36,14 +42,15 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/__init__.py" timestamp="1518703093248">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/factories.py" timestamp="1518704071647" />
       <file name="/manage.py@foodsharing_django_api" timestamp="1518197184832">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/requirements_dev.txt" timestamp="1518689161239">
-        <mark key="[" line="1" column="20" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/requirements_dev.txt" timestamp="1518705318734">
+        <mark key="[" line="2" column="17" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -143,9 +150,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518195864031">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518704616245">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="23" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="16" />
       </file>
@@ -170,43 +177,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9IG9zLmVudmlyb24uZ2V0KCdSRURJU19IT1NUJywgJ2xvY2FsaG9zdCcpCg==</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENhbGxhYmxlRmFsc2U=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9IG9zLmVudmlyb24uZ2V0KCdSRURJU19IT1NUJywgJ2xvY2FsaG9zdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RfbmFtZT0ndXNlcicsCiAgICAgICAgICAgIGxhc3RfbmFtZT0nMScsCiAgICAgICAgICAgIGVtYWlsPSd0ZXN0QGV4YW1wbGUuY29tJywKICAgICAgICAgICAgZ2VzY2hsZWNodD0wLAogICAgICAgICAgICBuZXdzbGV0dGVyPTAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubWlncmF0aW9ucyBpbXBvcnQgc2VyaWFsaXplcgo=</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIG1lc3NhZ2UgY3JlYXRpb24iIiIK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5tb2RlbHMgaW1wb3J0IENvbnZlcnNhdGlvbk1lbWJlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhZGR0YSBmb3IgY29udmVyc2F0aW9uIGNyZWF0aW9uIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhZGF0YSBmb3IgdGhlIGNvbnZlcnNhdGlvbiBtb2RlbCIiIgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubWlncmF0aW9ucyBpbXBvcnQgc2VyaWFsaXplcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhZGF0YSBmb3IgdGhlIG1lc3NhZ2UgbW9kZWwiIiIK</text>
+        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIG1lc3NhZ2UgY3JlYXRpb24iIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIHRoZSBtZW1iZXJzIG1vZGVsIiIiZGQK</text>
+        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhZGR0YSBmb3IgY29udmVyc2F0aW9uIGNyZWF0aW9uIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNtZXNkZHNhZ2VzID0gQ29udmVyc2F0aW9uTWVzc2FnZVNlcmlhbGl6ZXIobWFueT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiJNZXRhZGF0YSBmb3IgdGhlIGNvbnZlcnNhdGlvbiBtb2RlbCIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJNZXRhZGF0YSBmb3IgdGhlIG1lc3NhZ2UgbW9kZWwiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJNZXRhIGRhdGEgZm9yIHRoZSBtZW1iZXJzIG1vZGVsIiIiZGQK</text>
       </register>
     </registers>
     <search>
