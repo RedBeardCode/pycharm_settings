@@ -9,10 +9,11 @@
       <file name="/a.dummy" timestamp="1518969351665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_converstion.py" timestamp="1519039376963">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_converstion.py" timestamp="1519065346920">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings.py" timestamp="1518968895621">
         <mark key="[" line="9" column="3" />
@@ -20,12 +21,11 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/utils.py" timestamp="1519039261257">
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/utils.py" timestamp="1519065185481">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="45" column="5" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="30" />
         <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="61" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/requirements_dev.txt" timestamp="1518705318734">
         <mark key="[" line="2" column="17" />
@@ -49,10 +49,9 @@
       <file name="/manage.py@saleor" timestamp="1519017819560">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_pickups.py" timestamp="1519062345374">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="111" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_pickups.py" timestamp="1519065361907">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/requirements.in" timestamp="1518968714576">
@@ -96,11 +95,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_api.py" timestamp="1519039549158">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_api.py" timestamp="1519065262846">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519037017180">
         <mark key="'" line="171" column="17" />
@@ -292,44 +291,44 @@
       <jump line="171" column="17" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzMSA9IFN0b3JlRmFjdG9yeS5jcmVhdGUobmFtZT0nQSBTdG9yZScsIG1lbWJlcnM9W3UxLCB1Ml0sIGNvb3JkaW5hdG9ycz1bdWJdLCB0ZWFtX2NvbnZlcnNhdGlvbj1jb252czEpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNyZWF0ZV90ZXN0X2NvbnZlcnNhdGlvbg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRha2VuUGlja3VwU2VyaWFsaXplcg==</text>
+        <text encoding="base64">IGNyZWF0ZV90ZXN0X2NvbnZlcnNhdGlvbg==</text>
       </register>
       <register name="/" type="4">
         <text>ALLOW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzMSA9IFN0b3JlRmFjdG9yeS5jcmVhdGUobmFtZT0nQSBTdG9yZScsIG1lbWJlcnM9W3UxLCB1Ml0sIGNvb3JkaW5hdG9ycz1bdWJdLCB0ZWFtX2NvbnZlcnNhdGlvbj1jb252czEpCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy51dGlscyBpbXBvcnQgY3JlYXRlX3Rlc3RfY29udmVyc2F0aW9uLCBjcmVhdGVfdGVzdF91c2VyX2xpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkucGlja3Vwcy5tb2RlbHMgaW1wb3J0IFRha2VuUGlja3VwIGFzIFRha2VuUGlja3VwTW9kZWwK</text>
+        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgIG1lbWJlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgZmlyc3RfbmFtZT0ndXNlcicsCiAgICAgICAgICAgIGxhc3RfbmFtZT1zdHIoaSksCiAgICAgICAgICAgIGVtYWlsPSd0ZXN0e31AZXhhbXBsZS5jb20nLmZvcm1hdChpKSwKICAgICAgICAgICAgZ2VzY2hsZWNodD0wLAogICAgICAgICAgICBuZXdzbGV0dGVyPTAKICAgICAgICApCiAgICAgICAgbWVtYmVyLnNldF9wYXNzd29yZCgncGFzc3dvcmQnKQogICAgICAgIG1lbWJlcnMuYXBwZW5kKG1lbWJlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXRpbHMuZGVjb3JhdG9ycyBpbXBvcnQgc2V0dXBfZWFnZXJfbG9hZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBjbHMudXNlciA9IGNyZWF0ZV90ZXN0X3VzZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5nZW5lcmljcyBpbXBvcnQgZ2V0X29iamVjdF9vcl80MDQK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkucGlja3Vwcy5tb2RlbHMgaW1wb3J0IFRha2VuUGlja3VwIGFzIFRha2VuUGlja3VwTW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBDb3VudAo=</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXRpbHMuZGVjb3JhdG9ycyBpbXBvcnQgc2V0dXBfZWFnZXJfbG9hZGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5nZW5lcmljcyBpbXBvcnQgZ2V0X29iamVjdF9vcl80MDQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBDb3VudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbkZhY3RvcnkK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJzID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIG1lbWJlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIGZpcnN0X25hbWU9J3VzZXInLAogICAgICAgICAgICAgICAgbGFzdF9uYW1lPXN0cihpKSwKICAgICAgICAgICAgICAgIGVtYWlsPSd0ZXN0e31AZXhhbXBsZS5jb20nLmZvcm1hdChpKSwKICAgICAgICAgICAgICAgIGdlc2NobGVjaHQ9MCwKICAgICAgICAgICAgICAgIG5ld3NsZXR0ZXI9MAogICAgICAgICAgICApCiAgICAgICAgICAgIG1lbWJlcnMuYXBwZW5kKG1lbWJlcikKCiAgICAgICAgY2xzLmNvbnZlcnNhdGlvbiA9IENvbnZlcnNhdGlvbkZhY3RvcnkuY3JlYXRlKAogICAgICAgICAgICBuYW1lID0gJ3R3aXR0ZXInLAogICAgICAgICAgICBtZW1iZXJzID0gbWVtYmVycwogICAgICAgICkKICAgICAgICBjbHMubWVzc2FnZSA9IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5KAogICAgICAgICAgICBib2R5ID0gdSdKdXN0IGEgdGVzdCBtZXNzYWdlIHdpdGggZ2VybWFuIHVtbGF1dGUgw7zDpMO2w58nLAogICAgICAgICAgICBzZW50X2J5ID0gbWVtYmVyc1swXSwKICAgICAgICAgICAgY29udmVyc2F0aW9uPWNscy5jb252ZXJzYXRpb24KICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldHRpbmcK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbkZhY3RvcnkK</text>
       </register>
     </registers>
     <search>
@@ -375,6 +374,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
