@@ -43,19 +43,25 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c406062-8465-4f4e-a10c-0f99f0353b79/console.sql" timestamp="1517219602351">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/__init__.py" timestamp="1519060421256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/manage.py@saleor" timestamp="1519017819560">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_pickups.py" timestamp="1519062345374">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="111" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/requirements.in" timestamp="1518968714576">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/serializers.py" timestamp="1519061145899">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519025644275">
         <mark key="[" line="117" column="52" />
@@ -67,10 +73,14 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519060516953">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519061631493">
+        <mark key="[" line="78" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/factories.py" timestamp="1519061066126">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_api.py" timestamp="1519038784335">
         <mark key="[" line="9" column="0" />
@@ -80,9 +90,9 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/signals.py" timestamp="1518708306787">
         <mark key="[" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar-project.properties" timestamp="1518709787364">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="13" column="56" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/sonar-project.properties" timestamp="1519061680200">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="12" column="0" />
       </file>
@@ -105,6 +115,9 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/__init__.py" timestamp="1519061327105">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/test_user.py" timestamp="1518704616245">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="24" column="23" />
@@ -126,11 +139,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/management/commands/create_sample_data.py" timestamp="1518164650611">
-        <mark key="[" line="43" column="7" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="43" column="7" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/management/commands/create_sample_data.py" timestamp="1519062331667">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="110" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/dict_flow_examples.py" timestamp="1512369114056">
         <mark key="[" line="0" column="0" />
@@ -145,6 +158,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c406062-8465-4f4e-a10c-0f99f0353b79/console.sql" timestamp="1517219602351">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/models.py" timestamp="1519061112332">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/manage.py@foodsharing_django_api" timestamp="1518197184832">
         <mark key="[" line="0" column="0" />
@@ -174,7 +193,7 @@
       <file name="$USER_HOME$/Dropbox/projects/saleor/own_templates/lockdown/form.html" timestamp="1519019496251">
         <mark key="[" line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519039721606">
+      <file name="/Dummy.txt" timestamp="1519062251063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/api.py" timestamp="1518711244438">
@@ -274,43 +293,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXRpbHMuZGVjb3JhdG9ycyBpbXBvcnQgc2V0dXBfZWFnZXJfbG9hZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBzMSA9IFN0b3JlRmFjdG9yeS5jcmVhdGUobmFtZT0nQSBTdG9yZScsIG1lbWJlcnM9W3UxLCB1Ml0sIGNvb3JkaW5hdG9ycz1bdWJdLCB0ZWFtX2NvbnZlcnNhdGlvbj1jb252czEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNyZWF0ZV90ZXN0X3VzZXI=</text>
+        <text encoding="base64">IFRha2VuUGlja3VwU2VyaWFsaXplcg==</text>
       </register>
       <register name="/" type="4">
         <text>ALLOW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy51dGlscyBpbXBvcnQgY3JlYXRlX3Rlc3RfdXNlciwgY3JlYXRlX3Rlc3RfY29udmVyc2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzMSA9IFN0b3JlRmFjdG9yeS5jcmVhdGUobmFtZT0nQSBTdG9yZScsIG1lbWJlcnM9W3UxLCB1Ml0sIGNvb3JkaW5hdG9ycz1bdWJdLCB0ZWFtX2NvbnZlcnNhdGlvbj1jb252czEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXRpbHMuZGVjb3JhdG9ycyBpbXBvcnQgc2V0dXBfZWFnZXJfbG9hZGluZwo=</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkucGlja3Vwcy5tb2RlbHMgaW1wb3J0IFRha2VuUGlja3VwIGFzIFRha2VuUGlja3VwTW9kZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5nZW5lcmljcyBpbXBvcnQgZ2V0X29iamVjdF9vcl80MDQK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXRpbHMuZGVjb3JhdG9ycyBpbXBvcnQgc2V0dXBfZWFnZXJfbG9hZGluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBDb3VudAo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5nZW5lcmljcyBpbXBvcnQgZ2V0X29iamVjdF9vcl80MDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBDb3VudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5Cg==</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbkZhY3RvcnkK</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJzID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIG1lbWJlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIGZpcnN0X25hbWU9J3VzZXInLAogICAgICAgICAgICAgICAgbGFzdF9uYW1lPXN0cihpKSwKICAgICAgICAgICAgICAgIGVtYWlsPSd0ZXN0e31AZXhhbXBsZS5jb20nLmZvcm1hdChpKSwKICAgICAgICAgICAgICAgIGdlc2NobGVjaHQ9MCwKICAgICAgICAgICAgICAgIG5ld3NsZXR0ZXI9MAogICAgICAgICAgICApCiAgICAgICAgICAgIG1lbWJlcnMuYXBwZW5kKG1lbWJlcikKCiAgICAgICAgY2xzLmNvbnZlcnNhdGlvbiA9IENvbnZlcnNhdGlvbkZhY3RvcnkuY3JlYXRlKAogICAgICAgICAgICBuYW1lID0gJ3R3aXR0ZXInLAogICAgICAgICAgICBtZW1iZXJzID0gbWVtYmVycwogICAgICAgICkKICAgICAgICBjbHMubWVzc2FnZSA9IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5KAogICAgICAgICAgICBib2R5ID0gdSdKdXN0IGEgdGVzdCBtZXNzYWdlIHdpdGggZ2VybWFuIHVtbGF1dGUgw7zDpMO2w58nLAogICAgICAgICAgICBzZW50X2J5ID0gbWVtYmVyc1swXSwKICAgICAgICAgICAgY29udmVyc2F0aW9uPWNscy5jb252ZXJzYXRpb24KICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkuY29udmVyc2F0aW9ucy5mYWN0b3JpZXMgaW1wb3J0IENvbnZlcnNhdGlvbkZhY3RvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldHRpbmcK</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXJzID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIG1lbWJlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIGZpcnN0X25hbWU9J3VzZXInLAogICAgICAgICAgICAgICAgbGFzdF9uYW1lPXN0cihpKSwKICAgICAgICAgICAgICAgIGVtYWlsPSd0ZXN0e31AZXhhbXBsZS5jb20nLmZvcm1hdChpKSwKICAgICAgICAgICAgICAgIGdlc2NobGVjaHQ9MCwKICAgICAgICAgICAgICAgIG5ld3NsZXR0ZXI9MAogICAgICAgICAgICApCiAgICAgICAgICAgIG1lbWJlcnMuYXBwZW5kKG1lbWJlcikKCiAgICAgICAgY2xzLmNvbnZlcnNhdGlvbiA9IENvbnZlcnNhdGlvbkZhY3RvcnkuY3JlYXRlKAogICAgICAgICAgICBuYW1lID0gJ3R3aXR0ZXInLAogICAgICAgICAgICBtZW1iZXJzID0gbWVtYmVycwogICAgICAgICkKICAgICAgICBjbHMubWVzc2FnZSA9IENvbnZlcnNhdGlvbk1lc3NhZ2VGYWN0b3J5KAogICAgICAgICAgICBib2R5ID0gdSdKdXN0IGEgdGVzdCBtZXNzYWdlIHdpdGggZ2VybWFuIHVtbGF1dGUgw7zDpMO2w58nLAogICAgICAgICAgICBzZW50X2J5ID0gbWVtYmVyc1swXSwKICAgICAgICAgICAgY29udmVyc2F0aW9uPWNscy5jb252ZXJzYXRpb24KICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldHRpbmcK</text>
       </register>
     </registers>
     <search>
