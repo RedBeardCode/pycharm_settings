@@ -70,7 +70,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1518707029686">
+      <file name="/Django Console" timestamp="1519018190893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/docker-compose_dev.yml" timestamp="1518969245972">
@@ -95,6 +95,14 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/apps.py" timestamp="1518687596851">
         <mark key="[" line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/tests/settings.py" timestamp="1519018349521">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/manage.py@saleor" timestamp="1519017819560">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1518191303112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,7 +111,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518709812661">
+      <file name="/Dummy.txt" timestamp="1519018500583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/api.py" timestamp="1518711244438">
@@ -114,8 +122,13 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/serializers.py" timestamp="1518688263732">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1518969370142">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519018517926">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519018528335">
+        <mark key="[" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/__init__.py" timestamp="1518160783339">
         <mark key="[" line="4" column="0" />
@@ -166,10 +179,10 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1518969728494">
-        <mark key="'" line="39" column="61" />
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="15" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519018586152">
+        <mark key="'" line="383" column="5" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="366" column="73" />
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="15" />
       </file>
@@ -219,52 +232,58 @@
       <jump line="125" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="39" column="61" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="327" column="40" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="416" column="36" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="365" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="383" column="5" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3ZWI6CiAgICBidWlsZDogLgogICAgY29tbWFuZDogcHl0aG9uIG1hbmFnZS5weSBydW5zZXJ2ZXIgMC4wLjAuMDo4MDAwCiAgICBlbnZfZmlsZTogY29tbW9uLmVudgogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoCiAgICBwb3J0czoKICAgICAgLSAnODAwMDo4MDAwJwogICAgdm9sdW1lczoKICAgICAgLSAuOi9hcHA6Wgo=</text>
+        <text encoding="base64">VVNFX0xPQ0tET1dOID0gb3MuZW52aXJvbi5nZXQoJ1VTRV9MT0NLRE9XTicsICdGYWxzZScpID09ICdUcnVlJwppZiBVU0VfTE9DS0RPV046CiAgICBJTlNUQUxMRURfQVBQUyArPSAoJ2xvY2tkb3duJywpCiAgICBNSURETEVXQVJFX0NMQVNTRVMgKz0gKCdsb2NrZG93bi5taWRkbGV3YXJlLkxvY2tkb3duTWlkZGxld2FyZScsKQogICAgTE9DS0RPV05fUEFTU1dPUkRTID0gKG9zLmVudmlyb24uZ2V0KCdMT0NLRE9XTl9QQVNTV09SRCcsICdGYWxzZScpLCkKICAgIExPQ0tET1dOX1VSTF9FWENFUFRJT05TID0gKHInXi9zb21lL3VybC9ub3QvbG9ja2VkL2Rvd24vJCcsKQo=</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>ELASTIC</text>
+        <text>MIDDLE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGphbmdvLWxvY2tkb3duPT0xLjUuMAo=</text>
+        <text encoding="base64">RVNfVVJMID0gKG9zLmVudmlyb24uZ2V0KCdFTEFTVElDU0VBUkNIX1VSTCcpIG9yCiAgICAgICAgICBvcy5lbnZpcm9uLmdldCgnU0VBUkNIQk9YX1VSTCcpIG9yIG9zLmVudmlyb24uZ2V0KCdCT05TQUlfVVJMJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3ZWI6CiAgICBidWlsZDogLgogICAgY29tbWFuZDogcHl0aG9uIG1hbmFnZS5weSBydW5zZXJ2ZXIgMC4wLjAuMDo4MDAwCiAgICBlbnZfZmlsZTogY29tbW9uLmVudgogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoCiAgICBwb3J0czoKICAgICAgLSAnODAwMDo4MDAwJwogICAgdm9sdW1lczoKICAgICAgLSAuOi9hcHA6Wgo=</text>
+        <text encoding="base64">VVNFX0xPQ0tET1dOID0gb3MuZW52aXJvbi5nZXQoJ1VTRV9MT0NLRE9XTicsICdGYWxzZScpID09ICdUcnVlJwppZiBVU0VfTE9DS0RPV046CiAgICBJTlNUQUxMRURfQVBQUyArPSAoJ2xvY2tkb3duJywpCiAgICBNSURETEVXQVJFX0NMQVNTRVMgKz0gKCdsb2NrZG93bi5taWRkbGV3YXJlLkxvY2tkb3duTWlkZGxld2FyZScsKQogICAgTE9DS0RPV05fUEFTU1dPUkRTID0gKG9zLmVudmlyb24uZ2V0KCdMT0NLRE9XTl9QQVNTV09SRCcsICdGYWxzZScpLCkKICAgIExPQ0tET1dOX1VSTF9FWENFUFRJT05TID0gKHInXi9zb21lL3VybC9ub3QvbG9ja2VkL2Rvd24vJCcsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIG9zLmVudmlyb24uZ2V0KCdSRURJU19VUkwnKToKICAgIENBQ0hFU1snZGVmYXVsdCddID0gewogICAgICAgICdCQUNLRU5EJzogJ2RqYW5nb19yZWRpcy5jYWNoZS5SZWRpc0NhY2hlJywKICAgICAgICAnTE9DQVRJT04nOiBvcy5lbnZpcm9uLmdldCgnUkVESVNfVVJMJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PSdyZWRpczovL2xvY2FsaG9zdDoxNjM3OScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
+        <text encoding="base64">ICB3ZWI6CiAgICBidWlsZDogLgogICAgY29tbWFuZDogcHl0aG9uIG1hbmFnZS5weSBydW5zZXJ2ZXIgMC4wLjAuMDo4MDAwCiAgICBlbnZfZmlsZTogY29tbW9uLmVudgogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoCiAgICBwb3J0czoKICAgICAgLSAnODAwMDo4MDAwJwogICAgdm9sdW1lczoKICAgICAgLSAuOi9hcHA6Wgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMudXNlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgZmlyc3RfbmFtZT0ndXNlcicsCiAgICAgICAgICAgIGxhc3RfbmFtZT0nMScsCiAgICAgICAgICAgIGVtYWlsPSd0ZXN0QGV4YW1wbGUuY29tJywKICAgICAgICAgICAgZ2VzY2hsZWNodD0wLAogICAgICAgICAgICBuZXdzbGV0dGVyPTAKICAgICAgICApCiAgICAgICAgY2xzLnVzZXIuc2V0X3Bhc3N3b3JkKCdwYXNzd29yZCcpCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNhcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q2xlYW51cCBjb252ZXJzYXRpb24gQXBwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkudXNlcnMuZmFjdG9yaWVzIGltcG9ydCBVc2VyRmFjdG9yeQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjbHMudXNlciA9IFVzZXJGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgZmlyc3RfbmFtZT0ndXNlcicsCiAgICAgICAgICAgIGxhc3RfbmFtZT0nMScsCiAgICAgICAgICAgIGVtYWlsPSd0ZXN0QGV4YW1wbGUuY29tJywKICAgICAgICAgICAgZ2VzY2hsZWNodD0wLAogICAgICAgICAgICBuZXdzbGV0dGVyPTAKICAgICAgICApCiAgICAgICAgY2xzLnVzZXIuc2V0X3Bhc3N3b3JkKCdwYXNzd29yZCcpCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNhcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRkZGV0aW1lIGltcG9ydCBkYXRldGltZQo=</text>
+        <text encoding="base64">Q2xlYW51cCBjb252ZXJzYXRpb24gQXBwCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>ELASTIC</last-search>
+      <last-search>MIDDLE</last-search>
       <last-offset />
-      <last-pattern>ELASTIC</last-pattern>
+      <last-pattern>MIDDLE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -276,11 +295,13 @@
         <entry>inden</entry>
         <entry>plugin</entry>
         <entry>6379</entry>
-        <entry>REDIS</entry>
         <entry>SECRET_</entry>
         <entry>Database</entry>
-        <entry>DATAB</entry>
         <entry>ELASTIC</entry>
+        <entry>DATAB</entry>
+        <entry>REDIS</entry>
+        <entry>ELAST</entry>
+        <entry>MIDDLE</entry>
       </history-search>
       <history-cmd />
       <history-expr />
