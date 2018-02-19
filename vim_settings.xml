@@ -88,8 +88,8 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519025013031">
-        <mark key="'" line="55" column="60" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519037017180">
+        <mark key="'" line="171" column="17" />
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="71" />
         <mark key="^" line="81" column="15" />
@@ -266,6 +266,7 @@
       <jump line="167" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="55" column="60" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="171" column="17" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -275,7 +276,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>webpack</text>
+        <text>ALLOW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoJ3NhbGVvci9zdGF0aWMvZGFzaGJvYXJkL2ltYWdlcycpCg==</text>
@@ -309,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>webpack</last-search>
+      <last-search>ALLOW</last-search>
       <last-offset />
-      <last-pattern>webpack</last-pattern>
+      <last-pattern>ALLOW</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -333,6 +334,7 @@
         <entry>TEMPL</entry>
         <entry>media</entry>
         <entry>webpack</entry>
+        <entry>ALLOW</entry>
       </history-search>
       <history-cmd />
       <history-expr />
