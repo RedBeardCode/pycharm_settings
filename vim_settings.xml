@@ -28,7 +28,7 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="75" />
       </file>
-      <file name="/fs_foodsaver [Django default]" timestamp="1519067763700">
+      <file name="/fs_foodsaver [Django default]" timestamp="1519231051839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/vhs/string_examples.py" timestamp="1512369090693">
@@ -51,9 +51,10 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/serializers.py" timestamp="1519061145899">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519068559195">
-        <mark key="[" line="66" column="59" />
-        <mark key="^" line="77" column="17" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519232218321">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/factories.py" timestamp="1519061066126">
         <mark key="[" line="0" column="1" />
@@ -93,7 +94,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1519068326238">
+      <file name="/Python Console" timestamp="1519232279902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/__init__.py" timestamp="1518193554182">
@@ -123,7 +124,7 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/__init__.py" timestamp="1518703093248">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="/fs_betrieb [Django default]" timestamp="1519066439927">
+      <file name="/fs_betrieb [Django default]" timestamp="1519231052528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c406062-8465-4f4e-a10c-0f99f0353b79/console.sql" timestamp="1517219602351">
@@ -156,7 +157,11 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/serializers.py" timestamp="1518688263732">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/fs_betrieb_team [Django default]" timestamp="1519066620708">
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/api.py" timestamp="1519231683040">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="40" />
+      </file>
+      <file name="/fs_betrieb_team [Django default]" timestamp="1519231053152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519023224982">
@@ -192,11 +197,10 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_api.py" timestamp="1519068661816">
-        <mark key="[" line="64" column="42" />
-        <mark key="]" line="40" column="68" />
-        <mark key="." line="40" column="68" />
-        <mark key="^" line="60" column="49" />
+      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_api.py" timestamp="1519232276935">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/pytest.ini" timestamp="1518191548068">
         <mark key="[" line="1" column="1" />
@@ -233,44 +237,44 @@
       <jump line="171" column="17" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IEJhc2VQZXJtaXNzaW9u</text>
       </register>
       <register name="/" type="4">
         <text>ALLOW</text>
       </register>
-      <register name="0" type="4">
-        <text>self.pickups[0].at</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wZXJtaXNzaW9ucyBpbXBvcnQgQmFzZVBlcm1pc3Npb24sIElzQXV0aGVudGljYXRlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrX29iamVjdF9wZXJtaXNzaW9ucyhzZWxmLnJlcXVlc3QsIG9iaikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3dhcmdzPXsncGsnOiBzZWxmLnBpY2t1cHNbMF0uaWR9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldHRpbmdfbmV4dF9waWNrdXBzX3dyb25nX3VzZXIoc2VsZik6CiAgICAgICAgIiIiVGVzdGluZyB0aGUgcGlja3VwIGdldCBhcGkgbm8gbWVtYmVyIHVzZXIiIiIKCiAgICAgICAgdXJsID0gcmV2ZXJzZSgnYXBpL3YxOnRha2VucGlja3VwLW5leHQnKQogICAgICAgIHNlbGYuY2xpZW50LmxvZ2luKHVzZXJuYW1lPSd0ZXN0QGV4YW1wbGUuY29tJywgcGFzc3dvcmQ9J3Bhc3N3b3JkJykKICAgICAgICByZXNwb25zZSA9IHNlbGYuY2xpZW50LmdldCh1cmwpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDQwMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkucGlja3Vwcy5mYWN0b3JpZXMgaW1wb3J0IFRha2VuUGlja3VwRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaGVja19vYmplY3RfcGVybWlzc2lvbnMocmVxdWVzdCwgb2JqKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMudXNlciA9IGNyZWF0ZV90ZXN0X3VzZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igb2JqIGluIHF1ZXJ5c2V0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGZvb2RzaGFyaW5nX2FwaS5waWNrdXBzLmZhY3RvcmllcyBpbXBvcnQgVGFrZW5QaWNrdXBGYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrX3Blcm1pc3Npb25zKHJlcXVlc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIkNyZWF0ZSBhIHNldCBvZiB0ZXN0IHBpY2t1cHMgZm9yIGEgc3RvcmUiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMucGlja3VwcyA9IFtdCiAgICAgICAgZm9yIHVzZXIgaW4gY2xzLm1lbWJlcnM6CiAgICAgICAgICAgIGNscy5waWNrdXBzLmFwcGVuZCgKICAgICAgICAgICAgICAgIFRha2VuUGlja3VwRmFjdG9yeS5jcmVhdGUoCiAgICAgICAgICAgICAgICAgICAgdXNlcj11c2VyLAogICAgICAgICAgICAgICAgICAgIHN0b3JlPWNscy5zdG9yZSwKICAgICAgICAgICAgICAgICAgICBhdD1kYXRldGltZS5kYXRldGltZS5ub3coKSArIGRhdGV0aW1lLnRpbWVkZWx0YSh3ZWVrcz0xKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAjVE9ETzogQWRkIHRlc3QgZm9yIHRoZSBuZXh0IGFwaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga3dhcmdzPXsnc3RvcmUnOiBzZWxmLnN0b3JlLnBrLCAnYXQnOiBzZWxmLnBpY2t1cHNbMF0uYXR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
     </registers>
     <search>
