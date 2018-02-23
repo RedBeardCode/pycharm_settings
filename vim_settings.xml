@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/.gitignore" timestamp="1518162959221">
         <mark key="[" line="103" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1518969351665">
+      <file name="/a.dummy" timestamp="1519411593165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/conversations/test_converstion.py" timestamp="1519065346920">
@@ -107,10 +107,10 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519368546750">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="84" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519411567015">
+        <mark key="'" line="117" column="34" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/factories.py" timestamp="1518194184000">
         <mark key="[" line="5" column="20" />
@@ -204,11 +204,11 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/serializers.py" timestamp="1518688263732">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/chachaspirit/url.py" timestamp="1519409123116">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chachaspirit/url.py" timestamp="1519410701424">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/variables.scss" timestamp="1519367220128">
         <mark key="[" line="6" column="19" />
@@ -216,11 +216,11 @@
       <file name="/fs_betrieb_team [Django default]" timestamp="1519231053152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519410257727">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="23" column="49" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519411577999">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/__init__.py" timestamp="1518160783339">
         <mark key="[" line="4" column="0" />
@@ -330,19 +330,21 @@
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
       <jump line="344" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="117" column="34" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Uk9PVF9VUkxDT05GID0gJ3NhbGVvci51cmxzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>include</text>
       </register>
       <register name="/" type="4">
-        <text>STATIC</text>
+        <text>ROOT_URL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IiIiVmlldyBmb3IgcmVuZGVyaW5nIHN0YXRpYyBjb250ZW50IG9mIGNoYWNoYXNwaXJpdCIiIgo=</text>
+        <text encoding="base64">Uk9PVF9VUkxDT05GID0gJ3NhbGVvci51cmxzJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
@@ -376,9 +378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>STATIC</last-search>
+      <last-search>ROOT_URL</last-search>
       <last-offset />
-      <last-pattern>STATIC</last-pattern>
+      <last-pattern>ROOT_URL</last-pattern>
       <last-replace>chacha_static</last-replace>
       <last-substitute>saleor\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -386,8 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plugin</entry>
-        <entry>6379</entry>
         <entry>SECRET_</entry>
         <entry>Database</entry>
         <entry>ELASTIC</entry>
@@ -406,6 +406,8 @@
         <entry>saleor\/static</entry>
         <entry>__logo</entry>
         <entry>STATIC</entry>
+        <entry>ROOT</entry>
+        <entry>ROOT_URL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/saleor\/static/chacha_static/gc</entry>
