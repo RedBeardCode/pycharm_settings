@@ -46,7 +46,7 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/__init__.py" timestamp="1519060421256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/manage.py@saleor" timestamp="1519017819560">
+      <file name="/manage.py@saleor" timestamp="1519365058411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/pickups/test_pickups.py" timestamp="1519316156164">
@@ -88,6 +88,9 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519364778696">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/factories.py" timestamp="1518194184000">
         <mark key="[" line="5" column="20" />
@@ -155,7 +158,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Django Console" timestamp="1519018190893">
+      <file name="/Django Console" timestamp="1519364818974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/apps.py" timestamp="1518687596851">
@@ -170,7 +173,7 @@
       <file name="$USER_HOME$/Dropbox/projects/saleor/own_templates/lockdown/form.html" timestamp="1519019496251">
         <mark key="[" line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519326641045">
+      <file name="/Dummy.txt" timestamp="1519365424324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/serializers.py" timestamp="1518688263732">
@@ -212,6 +215,10 @@
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/__init__.py" timestamp="1518160796733">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" timestamp="1519365642375">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="95" column="47" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/stores/test_stores.py" timestamp="1519327025019">
         <mark key="[" line="4" column="0" />
@@ -265,6 +272,10 @@
       <jump line="115" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="55" column="60" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="171" column="17" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="86" column="54" filename="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +285,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>ansi</text>
+        <text>logo.svg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGFrZW5QaWNrdXBGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIHVzZXI9dXNlciwKICAgICAgICAgICAgICAgIHN0b3JlPXN0b3JlLAogICAgICAgICAgICAgICAgYXQ9ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEod2Vla3M9MSkKICAgICAgICAgICAgKQo=</text>
@@ -308,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ansi</last-search>
+      <last-search>logo.svg</last-search>
       <last-offset />
-      <last-pattern>ansi</last-pattern>
+      <last-pattern>logo.svg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ALLOW</last-substitute>
       <last-dir>1</last-dir>
@@ -336,6 +347,8 @@
         <entry>webpack</entry>
         <entry>ALLOW</entry>
         <entry>ansi</entry>
+        <entry>SITE</entry>
+        <entry>logo.svg</entry>
       </history-search>
       <history-cmd />
       <history-expr />
