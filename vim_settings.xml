@@ -271,7 +271,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>ALLOW</text>
+        <text>ansi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGFrZW5QaWNrdXBGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIHVzZXI9dXNlciwKICAgICAgICAgICAgICAgIHN0b3JlPXN0b3JlLAogICAgICAgICAgICAgICAgYXQ9ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEod2Vla3M9MSkKICAgICAgICAgICAgKQo=</text>
@@ -305,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ALLOW</last-search>
+      <last-search>ansi</last-search>
       <last-offset />
-      <last-pattern>ALLOW</last-pattern>
+      <last-pattern>ansi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ALLOW</last-substitute>
       <last-dir>1</last-dir>
@@ -332,6 +332,7 @@
         <entry>media</entry>
         <entry>webpack</entry>
         <entry>ALLOW</entry>
+        <entry>ansi</entry>
       </history-search>
       <history-cmd />
       <history-expr />
