@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/serializers.py" timestamp="1519061145899">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519362038544">
+        <mark key="[" line="56" column="17" />
+      </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519316079101">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="60" column="34" />
@@ -305,6 +308,8 @@
       <last-search>ALLOW</last-search>
       <last-offset />
       <last-pattern>ALLOW</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>ALLOW</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
