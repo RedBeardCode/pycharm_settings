@@ -21,13 +21,6 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/utils.py" timestamp="1519316241191">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="64" column="12" />
-        <mark key="." line="9" column="51" />
-        <mark key="^" line="9" column="75" />
-      </file>
       <file name="/fs_foodsaver [Django default]" timestamp="1519231051839">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,11 +47,21 @@
         <mark key="]" line="30" column="64" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/static/scss/components/_header.scss" timestamp="1519368870692" />
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/serializers.py" timestamp="1519061145899">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519362038544">
-        <mark key="[" line="56" column="17" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519367626872">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="57" column="1" />
+        <mark key="]" line="118" column="9" />
+        <mark key="^" line="104" column="32" />
+        <mark key="." line="104" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519368714867">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519316079101">
         <mark key="[" line="56" column="0" />
@@ -89,8 +92,10 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519364778696">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519368546750">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/factories.py" timestamp="1518194184000">
         <mark key="[" line="5" column="20" />
@@ -106,6 +111,11 @@
         <mark key="]" line="24" column="23" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/components/_header.scss" timestamp="1519366348617">
+        <mark key="[" line="92" column="3" />
+        <mark key="]" line="92" column="3" />
+        <mark key="." line="92" column="3" />
       </file>
       <file name="/Python Console" timestamp="1519317868399">
         <mark key="[" line="0" column="0" />
@@ -179,18 +189,17 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/serializers.py" timestamp="1518688263732">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/api.py" timestamp="1519231683040">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="40" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/variables.scss" timestamp="1519367220128">
+        <mark key="[" line="6" column="19" />
       </file>
       <file name="/fs_betrieb_team [Django default]" timestamp="1519231053152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519023224982">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/base.py" timestamp="1519368607233">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/__init__.py" timestamp="1518160783339">
         <mark key="[" line="4" column="0" />
@@ -216,9 +225,11 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/users/__init__.py" timestamp="1518160796733">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" timestamp="1519365642375">
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" timestamp="1519369624045">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="95" column="47" />
+        <mark key="[" line="244" column="72" />
+        <mark key="]" line="244" column="72" />
+        <mark key="." line="244" column="72" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/stores/test_stores.py" timestamp="1519327025019">
         <mark key="[" line="4" column="0" />
@@ -227,6 +238,9 @@
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/.coafile" timestamp="1518160698832">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" timestamp="1519367166915">
+        <mark key="'" line="9772" column="11" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/conversations/api.py" timestamp="1518711265823">
         <mark key="[" line="26" column="0" />
@@ -276,63 +290,81 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="86" column="54" filename="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" />
       <jump line="35" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" />
+      <jump line="104" column="32" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
+      <jump line="62" column="9" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
+      <jump line="83" column="17" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
+      <jump line="24" column="25" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="5" column="149842" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="378" column="4" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9396" column="7" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9401" column="11" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9407" column="11" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9749" column="7" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9753" column="7" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9759" column="7" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9767" column="7" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="9772" column="11" filename="$USER_HOME$/Dropbox/projects/saleor/static/assets/storefront.css" />
+      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
+      <jump line="344" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>logo.svg</text>
+        <text>STATIC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGFrZW5QaWNrdXBGYWN0b3J5LmNyZWF0ZSgKICAgICAgICAgICAgICAgIHVzZXI9dXNlciwKICAgICAgICAgICAgICAgIHN0b3JlPXN0b3JlLAogICAgICAgICAgICAgICAgYXQ9ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEod2Vla3M9MSkKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoJ2NoYWNoYV9zdGF0aWMvZGFzaGJvYXJkL2ltYWdlcycpCiAgICAgICAgXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjYXNzZXJ0IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHJlc3BvbnNlLmRhdGFbMF1bJ2F0J10pID09IG5ld19waWNrX3VwLmF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBjbGFzcz0ic29jaWFsLWZvb3RlciIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21pcnVtZWUvc2FsZW9yIj4KICAgICAgICAgICAgPHN2ZyBkYXRhLXNyYz0ieyUgc3RhdGljICJpbWFnZXMvZ2l0aHViLWxvZ28uc3ZnIiAlfSIgd2lkdGg9IjQ1cHgiIGhlaWdodD0iNDVweCIvPgogICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGZvb2RzaGFyaW5nX2FwaS5waWNrdXBzLmZhY3RvcmllcyBpbXBvcnQgVGFrZW5QaWNrdXBGYWN0b3J5Cg==</text>
+        <text encoding="base64">U1RBVElDRklMRVNfRElSUyA9IFsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgnaW1nJywgb3MucGF0aC5qb2luKFBST0pFQ1RfUk9PVCwgJ2NoYWNoYV9zdGF0aWMnLCAnaW1nJykpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmb29kc2hhcmluZ19hcGkucGlja3Vwcy5mYWN0b3JpZXMgaW1wb3J0IFRha2VuUGlja3VwRmFjdG9yeQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHN2ZyBwYXRoIHsKICAgICAgZmlsbDogJGJvZHktY29sb3I7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjYXNzZXJ0IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHJlc3BvbnNlLmRhdGFbMF1bJ2F0J10pID09IG5ld19waWNrX3VwLmF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldHRpbmdfbmV4dF9waWNrdXBzX3dyb25nX3VzZXIoc2VsZik6CiAgICAgICAgIiIiVGVzdGluZyB0aGUgcGlja3VwIGdldCBhcGkgbm8gbWVtYmVyIHVzZXIiIiIKCiAgICAgICAgdXJsID0gcmV2ZXJzZSgnYXBpL3YxOnRha2VucGlja3VwLW5leHQnKQogICAgICAgIHNlbGYuY2xpZW50LmxvZ2luKHVzZXJuYW1lPSd0ZXN0QGV4YW1wbGUuY29tJywgcGFzc3dvcmQ9J3Bhc3N3b3JkJykKICAgICAgICByZXNwb25zZSA9IHNlbGYuY2xpZW50LmdldCh1cmwpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDQwMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaGVja19vYmplY3RfcGVybWlzc2lvbnMocmVxdWVzdCwgb2JqKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGZvb2RzaGFyaW5nX2FwaS5waWNrdXBzLmZhY3RvcmllcyBpbXBvcnQgVGFrZW5QaWNrdXBGYWN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb2JqIGluIHF1ZXJ5c2V0Ogo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/saleor\/static/chacha_static/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>logo.svg</last-search>
+      <last-search>STATIC</last-search>
       <last-offset />
-      <last-pattern>logo.svg</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>ALLOW</last-substitute>
+      <last-pattern>STATIC</last-pattern>
+      <last-replace>chacha_static</last-replace>
+      <last-substitute>saleor\/static</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>newsl</entry>
-        <entry>pass</entry>
-        <entry>plug</entry>
-        <entry>inden</entry>
         <entry>plugin</entry>
         <entry>6379</entry>
         <entry>SECRET_</entry>
@@ -349,8 +381,14 @@
         <entry>ansi</entry>
         <entry>SITE</entry>
         <entry>logo.svg</entry>
+        <entry>scss</entry>
+        <entry>saleor\/static</entry>
+        <entry>__logo</entry>
+        <entry>STATIC</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>%s/saleor\/static/chacha_static/gc</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -369,6 +407,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
