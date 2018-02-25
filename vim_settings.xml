@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/__init__.py" timestamp="1519060421256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/core/views.py" timestamp="1519563904306" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/core/views.py" timestamp="1519566655286" />
       <file name="/manage.py@saleor" timestamp="1519365058411">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,10 +74,11 @@
         <mark key="^" line="116" column="33" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519563215358">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519567190325">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/pickups/api.py" timestamp="1519316079101">
         <mark key="[" line="56" column="0" />
@@ -112,10 +113,10 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519563784913">
-        <mark key="'" line="370" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="28" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" timestamp="1519567173668">
+        <mark key="'" line="268" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="279" column="33" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/factories.py" timestamp="1518194184000">
         <mark key="[" line="5" column="20" />
@@ -137,7 +138,7 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519563988603">
+      <file name="/Python Console" timestamp="1519566578449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/__init__.py" timestamp="1518193554182">
@@ -267,6 +268,7 @@
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="41" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/order/views.py" timestamp="1519566871285" />
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/tests/stores/test_stores.py" timestamp="1519327025019">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -353,19 +355,21 @@
       <jump line="375" column="11" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="373" column="4" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="370" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="346" column="52" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
+      <jump line="268" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxMT1dFRF9IZGRPU1RTICs9IFsnMTkyLjE2OC4xLjInXQo=</text>
+        <text encoding="base64">Q0hFQ0tPVVRfUEFZTUVOVF9DSE9JQ0VTID0gWwogICAgKCdkZWZhdWx0JywgJ0R1bW15IHByb3ZpZGVyJyldCg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>SEARCH_</text>
+        <text>PAYMENT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoJ2NoYWNoYV9zdGF0aWMvaW1hZ2VzJyksCg==</text>
+        <text encoding="base64">Q0hFQ0tPVVRfUEFZTUVOVF9DSE9JQ0VTID0gWwogICAgKCdkZWZhdWx0JywgJ0R1bW15IHByb3ZpZGVyJyldCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QUxMT1dFRF9IZGRPU1RTICs9IFsnMTkyLjE2OC4xLjInXQo=</text>
@@ -399,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SEARCH_</last-search>
+      <last-search>PAYMENT</last-search>
       <last-offset />
-      <last-pattern>SEARCH_</last-pattern>
+      <last-pattern>PAYMENT</last-pattern>
       <last-replace>chacha_static</last-replace>
       <last-substitute>saleor\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -409,8 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>REDIS</entry>
-        <entry>ELAST</entry>
         <entry>MIDDLE</entry>
         <entry>TEMPL</entry>
         <entry>media</entry>
@@ -429,6 +431,8 @@
         <entry>images</entry>
         <entry>ChaCha</entry>
         <entry>SEARCH_</entry>
+        <entry>STRIPE</entry>
+        <entry>PAYMENT</entry>
       </history-search>
       <history-cmd>
         <entry>%s/saleor\/static/chacha_static/gc</entry>
