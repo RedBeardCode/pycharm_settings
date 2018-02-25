@@ -66,12 +66,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519367626872">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="57" column="1" />
-        <mark key="]" line="118" column="9" />
-        <mark key="^" line="104" column="32" />
-        <mark key="." line="104" column="32" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" timestamp="1519545531996">
+        <mark key="'" line="19" column="58" />
+        <mark key="[" line="116" column="11" />
+        <mark key="]" line="116" column="42" />
+        <mark key="^" line="116" column="33" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519368714867">
         <mark key="[" line="27" column="8" />
@@ -144,6 +144,9 @@
       <file name="/fragment.py" timestamp="1519316888120">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/static/scss/layouts/_home.scss" timestamp="1519544824140">
+        <mark key="[" line="44" column="38" />
+      </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/package.json" timestamp="1519364072304">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,6 +215,12 @@
         <mark key="]" line="7" column="34" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/layouts/_home.scss" timestamp="1519545468149">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="45" column="39" />
+        <mark key="^" line="45" column="39" />
+        <mark key="." line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/variables.scss" timestamp="1519486595887">
         <mark key="[" line="24" column="0" />
@@ -337,19 +346,20 @@
       <jump line="89" column="0" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="117" column="34" filename="$USER_HOME$/Dropbox/projects/saleor/saleor/settings.py" />
       <jump line="31" column="49" filename="$USER_HOME$/Dropbox/projects/saleor/chacha_templates/base.html" />
+      <jump line="19" column="58" filename="$USER_HOME$/Dropbox/projects/saleor/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoJ2NoYWNoYV9zdGF0aWMvaW1hZ2VzJyksCg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>schrift.</text>
+        <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Uk9PVF9VUkxDT05GID0gJ3NhbGVvci51cmxzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoJ2NoYWNoYV9zdGF0aWMvaW1hZ2VzJyksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICNwYWRkaW5nOiAkZ2RkbG9iYWwtcGFkZGluZyAqIDIgMDsK</text>
@@ -383,9 +393,9 @@
       </register>
     </registers>
     <search>
-      <last-search>schrift.</last-search>
+      <last-search>images</last-search>
       <last-offset />
-      <last-pattern>schrift.</last-pattern>
+      <last-pattern>images</last-pattern>
       <last-replace>chacha_static</last-replace>
       <last-substitute>saleor\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Database</entry>
         <entry>ELASTIC</entry>
         <entry>DATAB</entry>
         <entry>REDIS</entry>
@@ -413,6 +422,7 @@
         <entry>ROOT</entry>
         <entry>ROOT_URL</entry>
         <entry>schrift.</entry>
+        <entry>images</entry>
       </history-search>
       <history-cmd>
         <entry>%s/saleor\/static/chacha_static/gc</entry>
