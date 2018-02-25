@@ -73,8 +73,8 @@
         <mark key="^" line="116" column="33" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519368714867">
-        <mark key="[" line="27" column="8" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/saleor/chacha_settings/dev.py" timestamp="1519562404723">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
@@ -135,7 +135,7 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519317868399">
+      <file name="/Python Console" timestamp="1519562239013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/RedBeardCode/Dropbox/projects/foodsharing_django_api/foodsharing_api/users/__init__.py" timestamp="1518193554182">
@@ -216,11 +216,11 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/layouts/_home.scss" timestamp="1519545468149">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="45" column="39" />
-        <mark key="^" line="45" column="39" />
-        <mark key="." line="45" column="39" />
+      <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/layouts/_home.scss" timestamp="1519562123584">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="56" column="3" />
+        <mark key="^" line="56" column="3" />
+        <mark key="." line="56" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects/saleor/chacha_static/scss/variables.scss" timestamp="1519486595887">
         <mark key="[" line="24" column="0" />
